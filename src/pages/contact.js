@@ -4,7 +4,7 @@ import Header from "../components/header"
 
 const Contact = () => {
   return (
-    <div style={{ color: `teal` }}>
+    <div>
       <Link to="/">Home</Link>
       <Header headerText="Contact" />
       <p>Send us a message!</p>

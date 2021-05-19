@@ -3,7 +3,7 @@ import Header from "../components/header"
 
 const About = () => {
   return (
-    <div style={{ color: `teal` }}>
+    <div>
       <Header headerText="About Gatsby" />
       <Header headerText="It's pretty cool" />
 
